@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+.obsidian/
+*.swp
+*~
+
+# Local game encyclopedia export; do not publish.
+EncyclopediaExporter_Output/
+
+# Local derived notes; keep out of public main.
+研究笔记/
+
+# Local agent files
+.claude/
+.codex/
+
+# Local Codex skill state
+skills-lock.json
