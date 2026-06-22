@@ -4,6 +4,11 @@
 
 本仓库不分发游戏原始导出内容。带有原作者版权的百晓册导出应只保存在本地的 `EncyclopediaExporter_Output/` 目录中；该目录已被 `.gitignore` 排除，不会进入公开仓库。
 
+## 来源链接
+
+- 游戏：[Steam 页面](https://store.steampowered.com/app/838350/) / [维基百科](https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%90%BE%E7%BB%98%E5%8D%B7%EF%BC%9A%E5%A4%A9%E5%B9%95%E5%BF%83%E5%B8%B7)
+- 百晓册导出工具：[Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3746603173) / [GitHub 仓库](https://github.com/l9metapod/TaiwuEncyclopediaExporter)
+
 ## 本地目录约定
 
 把百晓册 Markdown 导出放在：
@@ -11,6 +16,8 @@
 ```text
 EncyclopediaExporter_Output/
 ```
+
+该目录中的数据由游戏 mod “百晓册导出 · AI攻略助手” 导出。
 
 导出目录通常包含：
 
