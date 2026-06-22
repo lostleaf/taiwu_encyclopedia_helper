@@ -11,7 +11,7 @@
 # Local game encyclopedia export; do not publish.
 EncyclopediaExporter_Output/
 
-# Local derived notes; keep out of public main.
+# Local derived notes and generated indexes; keep out of public main.
 研究笔记/
 
 # Local agent files
