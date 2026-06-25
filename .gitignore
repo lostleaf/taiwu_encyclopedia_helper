@@ -17,6 +17,7 @@ EncyclopediaExporter_Output/
 # Local agent files
 .claude/
 .codex/
+.agents/
 
 # Local Codex skill state
 skills-lock.json
