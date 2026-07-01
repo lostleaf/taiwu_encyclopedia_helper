@@ -10,6 +10,7 @@
 
 # Local game encyclopedia export; do not publish.
 EncyclopediaExporter_Output/
+EncyclopediaExporter_Output.xml
 
 # Local derived notes and generated indexes; keep out of public main.
 研究笔记/
